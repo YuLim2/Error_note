@@ -14,3 +14,5 @@
 make new env and new kernel.
 
 <a href='http://www.techanswersweb.com/kernel-error-jupyter-notebook/'>'References'</a>
+
++ make new kernel,  activate kernel and connect kernel
